@@ -23,7 +23,7 @@ It performs basic arithmetic operations with a modern UI and smooth button inter
 ## 🖼️ Preview
 <img width="1944" height="1522" alt="shila-mehta github io_Calculator_" src="https://github.com/user-attachments/assets/e12f6c88-185e-4259-9152-fbddd715a85e" />
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Frontend	HTML5, CSS3, JavaScript (ES6)
 
